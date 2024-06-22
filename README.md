@@ -15,3 +15,12 @@ Internship project repository
 
 ### Data Splitting
 1. Split the dataset into training and testing sets. A common split ratio is 80% for training and 20% for testing.
+
+### Model Selection
+1. Decision Tree
+2. Navie Bayes
+3. Support Vector Machine (SVM)
+4. Logistic Regression
+5. Random Forest
+6. XG Boost
+
